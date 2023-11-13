@@ -42,6 +42,7 @@ function agregarMetodo() {
    }
 }
 
+
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
    crearInstanciaPersona,
